@@ -2,7 +2,7 @@
   "name": "react_7_1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ZachFinley.github.io/react-app",
+  "homepage": "http://ZachFinley.github.io/Lesson7.1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
